@@ -1,8 +1,2 @@
-
 1: context: (envirnment)
-2: ancestors : (a person who was in someone's family in past times)
-
-
-
- 
-
+2: ancestors : (a person who was in someone's family in past times
