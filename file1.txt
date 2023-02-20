@@ -2,4 +2,4 @@
 2: ancestors : (a person who was in someone's family in past times
 3: pitfalls: (danger,problem)
 4: anonymous: (means without name ,unknown)
-
+5: endorse: (support)
